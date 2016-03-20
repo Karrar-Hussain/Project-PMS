@@ -1,0 +1,3 @@
+# List of generated media files. The columns are tab-separated:
+# id | media file type | display name | media file path
+76	windows	Windows (3)	C:\Users\Karrar\Desktop\PMS_windows-x64_1.0.exe

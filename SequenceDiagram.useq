@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.9" icons="true">  
+  <object id="1" language="java" name="view.MainPage" project="ICM" file="/ICM/src/view/MainPage.java" binary="false" 
+    label="mainPage" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="31" y="0"/>    
+    <execution id="2">      
+      <position height="801" width="79" x="5" y="99"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="21" width="7" x="41" y="227"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="21" width="7" x="41" y="270"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="21" width="7" x="41" y="333"/>    
+    </execution>    
+    <execution id="24">      
+      <position height="21" width="7" x="41" y="441"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="7" x="41" y="474"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="21" width="7" x="41" y="141"/>    
+    </execution>  
+  </object>  
+  <object id="27" language="java" name="view.SignupPage" project="ICM" file="/ICM/src/view/SignupPage.java" 
+    binary="false" label="signupPage" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="85" y="0"/>    
+    <execution id="6">      
+      <position height="513" width="91" x="88" y="184"/>    
+    </execution>  
+  </object>  
+  <object id="30" language="java" name="view.LoginPage" project="ICM" file="/ICM/src/view/LoginPage.java" binary="false" 
+    label="loginPage" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="164" y="0"/>    
+    <execution id="4">      
+      <position height="343" width="83" x="88" y="120"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="21" width="7" x="221" y="198"/>    
+    </execution>  
+  </object>  
+  <object id="38" language="java" name="view.CustomerVerifier" project="ICM" file="/ICM/src/view/CustomerVerifier.java" 
+    binary="false" label="customerVerifier" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="267" y="0"/>    
+    <execution id="29">      
+      <position height="471" width="120" x="270" y="205"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="21" width="7" x="327" y="247"/>    
+    </execution>  
+  </object>  
+  <object id="44" language="java" name="controller.Email" project="ICM" file="/ICM/src/controller/Email.java" 
+    binary="false" label="email" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="433" y="0"/>    
+    <execution id="40">      
+      <position height="63" width="54" x="394" y="226"/>    
+    </execution>  
+  </object>  
+  <object id="46" language="java" name="controller.LogInController" project="ICM" 
+    file="/ICM/src/controller/LogInController.java" binary="false" label="logInController" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="296" y="0"/>    
+    <execution id="32">      
+      <position height="105" width="110" x="175" y="141"/>    
+    </execution>    
+    <execution id="36">      
+      <position height="21" width="110" x="452" y="421"/>    
+    </execution>  
+  </object>  
+  <object id="49" language="java" name="controller.UsersController" project="ICM" 
+    file="/ICM/src/controller/UsersController.java" binary="false" label="usersController" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="573" y="0"/>    
+    <execution id="42">      
+      <position height="339" width="113" x="566" y="316"/>    
+    </execution>  
+  </object>  
+  <object id="54" language="java" name="model.DbLogIn" project="ICM" file="/ICM/src/model/DbLogIn.java" binary="false" 
+    label="dbLogIn" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="342" y="0"/>    
+    <execution id="48">      
+      <position height="63" width="69" x="289" y="162"/>    
+    </execution>  
+  </object>  
+  <object id="57" language="java" name="model.DbSignUp" project="ICM" file="/ICM/src/model/DbSignUp.java" binary="false" 
+    label="dbSignUp" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="639" y="0"/>    
+    <execution id="51">      
+      <position height="21" width="78" x="756" y="364"/>    
+    </execution>  
+  </object>  
+  <object id="58" language="java" name="model.DBConnection" project="ICM" file="/ICM/src/model/DBConnection.java" 
+    binary="false" label="dbConnection" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="400" y="0"/>    
+    <execution id="56">      
+      <position height="21" width="103" x="362" y="183"/>    
+    </execution>  
+  </object>  
+  <object id="59" language="java" name="view.ManagerPage" project="ICM" file="/ICM/src/view/ManagerPage.java" 
+    binary="false" label="managerPage" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="557" y="0"/>    
+    <execution id="8">      
+      <position height="63" width="102" x="469" y="249"/>    
+    </execution>  
+  </object>  
+  <object id="61" language="java" name="view.MainPage" project="ICM" file="/ICM/src/view/MainPage.java" binary="false" 
+    label="mainPage1" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="655" y="0"/>    
+    <execution id="10">      
+      <position height="226" width="79" x="575" y="290"/>    
+    </execution>  
+  </object>  
+  <object id="65" language="java" name="view.AddPanel" project="ICM" file="/ICM/src/view/AddPanel.java" binary="false" 
+    label="addPanel" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="753" y="0"/>    
+    <execution id="12">      
+      <position height="21" width="77" x="658" y="383"/>    
+    </execution>    
+    <execution id="66">      
+      <position height="105" width="77" x="658" y="363"/>    
+    </execution>    
+    <execution id="69">      
+      <position height="105" width="77" x="658" y="442"/>    
+    </execution>  
+  </object>  
+  <object id="74" language="java" name="view.EditPanel" project="ICM" file="/ICM/src/view/EditPanel.java" binary="false" 
+    label="editPanel" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="682" y="0"/>    
+    <execution id="14">      
+      <position height="136" width="76" x="739" y="504"/>    
+    </execution>  
+  </object>  
+  <object id="77" language="java" name="view.SearchPanel" project="ICM" file="/ICM/src/view/SearchPanel.java" 
+    binary="false" label="searchPanel" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="755" y="0"/>    
+    <execution id="16">      
+      <position height="335" width="96" x="819" y="544"/>    
+    </execution>  
+  </object>  
+  <object id="82" language="java" name="view.ViewPanel" project="ICM" file="/ICM/src/view/ViewPanel.java" binary="false" 
+    label="viewPanel" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="694" y="0"/>    
+    <execution id="18">      
+      <position height="196" width="83" x="919" y="588"/>    
+    </execution>  
+  </object>  
+  <object id="85" language="java" name="view.DeletePanel" project="ICM" file="/ICM/src/view/DeletePanel.java" 
+    binary="false" label="deletePanel" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="765" y="0"/>    
+    <execution id="20">      
+      <position height="105" width="91" x="1006" y="632"/>    
+    </execution>  
+  </object>  
+  <object id="88" language="java" name="controller.Property" project="ICM" file="/ICM/src/controller/Property.java" 
+    binary="false" label="property" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="684" y="0"/>    
+    <execution id="68">      
+      <position height="63" width="72" x="1101" y="384"/>    
+    </execution>    
+    <execution id="76">      
+      <position height="21" width="7" x="1134" y="598"/>    
+    </execution>    
+    <execution id="79">      
+      <position height="21" width="72" x="1101" y="571"/>    
+    </execution>  
+  </object>  
+  <object id="91" language="java" name="controller.ResidentialProperty" project="ICM" 
+    file="/ICM/src/controller/ResidentialProperty.java" binary="false" label="residentialProperty" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="736" y="0"/>    
+    <execution id="71">      
+      <position height="63" width="135" x="1177" y="463"/>    
+    </execution>    
+    <execution id="87">      
+      <position height="63" width="135" x="1177" y="653"/>    
+    </execution>    
+    <execution id="84">      
+      <position height="21" width="135" x="1177" y="742"/>    
+    </execution>    
+    <execution id="81">      
+      <position height="63" width="135" x="1177" y="795"/>    
+    </execution>  
+  </object>  
+  <object id="98" language="java" name="controller.CommercialProperty" project="ICM" 
+    file="/ICM/src/controller/CommercialProperty.java" binary="false" label="commercialProperty" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="685" y="0"/>    
+    <execution id="73">      
+      <position height="21" width="141" x="1316" y="493"/>    
+    </execution>  
+  </object>  
+  <object id="99" language="java" name="controller.Specification" project="ICM" 
+    file="/ICM/src/controller/Specification.java" binary="false" label="specification" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="788" y="0"/>    
+    <execution id="93">      
+      <position height="21" width="97" x="1461" y="484"/>    
+    </execution>  
+  </object>  
+  <object id="100" language="java" name="controller.Email.SMTPAuthenticator" project="ICM" 
+    file="/ICM/src/controller/Email.java" binary="false" label="smtpAuthenticator" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="433" y="0"/>  
+  </object>  
+  <object id="101" language="java" name="model.DataBaseQuery" project="ICM" file="/ICM/src/model/DataBaseQuery.java" 
+    binary="false" label="dataBaseQuery" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="635" y="0"/>    
+    <execution id="90">      
+      <position height="21" width="112" x="1562" y="405"/>    
+    </execution>    
+    <execution id="95">      
+      <position height="21" width="112" x="1562" y="674"/>    
+    </execution>    
+    <execution id="97">      
+      <position height="21" width="112" x="1562" y="816"/>    
+    </execution>  
+  </object>  
+  <object id="102" language="java" name="controller.Dweller" project="ICM" file="/ICM/src/controller/Dweller.java" 
+    binary="false" label="dweller" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="2310" y="0"/>    
+    <execution id="103">      
+      <position height="63" width="66" x="2290" y="177"/>    
+    </execution>  
+  </object>  
+  <object id="105" language="java" name="view.ReportProblemPage" project="ICM" 
+    file="/ICM/src/view/ReportProblemPage.java" binary="false" label="reportProblemPage" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="2351" y="0"/>    
+    <execution id="53">      
+      <position height="205" width="138" x="2360" y="429"/>    
+    </execution>  
+  </object>  
+  <object id="108" language="java" name="view.MaintainessTeamClass" project="ICM" 
+    file="/ICM/src/view/MaintainessTeamClass.java" binary="false" label="maintainessTeamClass" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="656" y="0"/>    
+    <execution id="107">      
+      <position height="159" width="155" x="2502" y="454"/>    
+    </execution>  
+  </object>  
+  <object id="113" language="java" name="controller.Maintainess" project="ICM" 
+    file="/ICM/src/controller/Maintainess.java" binary="false" label="maintainess" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="701" y="0"/>    
+    <execution id="110">      
+      <position height="21" width="92" x="2661" y="493"/>    
+    </execution>    
+    <execution id="112">      
+      <position height="63" width="92" x="2661" y="529"/>    
+    </execution>  
+  </object>  
+  <object id="116" language="java" name="controller.Emergency" project="ICM" file="/ICM/src/controller/Emergency.java" 
+    binary="false" label="emergency" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="748" y="0"/>    
+    <execution id="115">      
+      <position height="21" width="87" x="2757" y="550"/>    
+    </execution>  
+  </object>  
+  <object id="117" language="java" name="controller.Plumber" project="ICM" file="/ICM/src/controller/Plumber.java" 
+    binary="false" label="plumber" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="702" y="0"/>  
+  </object>  
+  <object id="118" language="java" name="controller.Electration" project="ICM" 
+    file="/ICM/src/controller/Electration.java" binary="false" label="electration" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="657" y="0"/>  
+  </object>  
+  <message id="3" operation="LoginPage(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="SignupPage(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="ManagerPage(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" operation="MainPage()" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="11" operation="AddPanel(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13" operation="EditPanel(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="15" operation="SearchPanel(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="17" operation="ViewPanel(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="19" operation="DeletePanel(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="28" operation="CustomerVerifier(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="31" operation="login_check(java.lang.String,java.lang.String):java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="32"/>  
+  </message>  
+  <message id="33" operation="set_signup_page():void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="26"/>  
+  </message>  
+  <message id="34" operation="setManagerPage():void" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="35" operation="login_check(java.lang.String,java.lang.String):java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="36"/>  
+  </message>  
+  <message id="39" operation="Email(java.lang.String,java.lang.String,java.lang.String)" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="40"/>  
+  </message>  
+  <message id="41" 
+    operation="signup_check(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String):boolean" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="42"/>  
+  </message>  
+  <message id="45" operation="email_code(java.lang.String,java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="47" operation="login_check(java.lang.String,java.lang.String):java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="50" 
+    operation="signup_check(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String):boolean" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="51"/>  
+  </message>  
+  <message id="52" operation="ReportProblemPage(view.MainFrame)" asynchronous="false">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="53"/>  
+  </message>  
+  <message id="55" operation="select(java.lang.String):java.sql.ResultSet" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="56"/>  
+  </message>  
+  <message id="60" operation="setPropertyMenu():void" asynchronous="false">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="62" operation="setAddPanel():void" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="63" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>  
+  <message id="64" operation="setEditPanel():void" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="67" operation="oneProperty(java.lang.String):java.sql.ResultSet" asynchronous="false">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="68"/>  
+  </message>  
+  <message id="70" operation="insertResidential():boolean" asynchronous="false">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="71"/>  
+  </message>  
+  <message id="72" operation="insertCommercial():boolean" asynchronous="false">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="73"/>  
+  </message>  
+  <message id="75" operation="getAllProperty():java.lang.String[]" asynchronous="false">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="76"/>  
+  </message>  
+  <message id="78" operation="getAllProperty():java.lang.String[]" asynchronous="false">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="79"/>  
+  </message>  
+  <message id="80" operation="searchProperty(int,int,int,int,int,boolean,java.lang.String):java.lang.String[]" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="81"/>  
+  </message>  
+  <message id="83" operation="getResidentialSpecification():java.sql.ResultSet" asynchronous="false">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="84"/>  
+  </message>  
+  <message id="86" asynchronous="false">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="87"/>  
+  </message>  
+  <message id="89" operation="oneProperty(java.lang.String):java.sql.ResultSet" asynchronous="false">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="90"/>  
+  </message>  
+  <message id="92" operation="insertResidential():boolean" asynchronous="false">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="93"/>  
+  </message>  
+  <message id="94" operation="deleteProperty(int):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="87"/>    
+    <end type="TARGET" refId="95"/>  
+  </message>  
+  <message id="96" operation="searchPropertyBy(int,int,int,int,int,boolean,java.lang.String):java.sql.ResultSet" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="81"/>    
+    <end type="TARGET" refId="97"/>  
+  </message>  
+  <message id="104" operation="LoginPage(view.MainPage)" asynchronous="false">    
+    <end type="SOURCE" refId="103"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="106" operation="MaintainessTeamClass(view.MainFrame)" asynchronous="false">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="107"/>  
+  </message>  
+  <message id="109" operation="Maintainess()" asynchronous="false">    
+    <end type="SOURCE" refId="107"/>    
+    <end type="TARGET" refId="110"/>  
+  </message>  
+  <message id="111" operation="Forward():void" asynchronous="false">    
+    <end type="SOURCE" refId="107"/>    
+    <end type="TARGET" refId="112"/>  
+  </message>  
+  <message id="114" operation="Forward():void" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="115"/>  
+  </message>
+</sequence-diagram>

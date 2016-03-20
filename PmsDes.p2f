@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='1'>
+    <iu id='epp.package.java' name='Eclipse IDE for Java Developers' version='4.4.1.20140925-1820'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="76" updatableVersionMin="" updatableVersionMax="" fileName="PMS_windows-x64_1.0.exe" newVersion="1.0" newMediaFileId="76" fileSize="134139392" bundledJre="" archive="false">
+    <comment language="en" />
+  </entry>
+</updateDescriptor>
